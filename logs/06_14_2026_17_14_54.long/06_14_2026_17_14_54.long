@@ -1,0 +1,4 @@
+[2026-06-14 17:15:11,564]21root_INFO_entered the data ingestion method or components 
+[2026-06-14 17:15:11,620]25root_INFO_Read the dataset as dataframe
+[2026-06-14 17:15:11,656]28root_INFO_Train test split initiated
+[2026-06-14 17:15:11,709]32root_INFO_Ingestion of the data is completed
