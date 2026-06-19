@@ -1,4 +1,49 @@
+# Virtual Environment
 venv/
+env/
+
+# Python cache
 __pycache__/
-*.__pyc
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+
+artifacts/
